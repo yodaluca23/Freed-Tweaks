@@ -170,7 +170,7 @@
                     "minOSVersion": "16.3",
                     "date": "2026-05-05T20:00:00+03:00",
                     "size": 323033457,
-                    "downloadURL": "https://github.com/yodaluca23/Freed-Tweaks/releases/download/1.0.0/theta.ipa",
+                    "downloadURL": "https://github.com/yodaluca23/Freed-Tweaks/releases/download/1.0.0/Theta-v5.1_428.1.0_patch_zarzel.ipa",
                     "localizedDescription": "+ Updated support for Instagram v420.0.0.\n+ Optimized video saving.\n+ Added device ban bypass.\n+ Updated/fixed all features regarding to marking messages as seen.\n+ Added an option to hide Blend Button in DMs\n+ Fixed Keep Deleted Messages.\n+ Added Comment Options.\n+ Added Story Seen on Like.\n+ Added Story Seen on Reply.\n+ Added button to clear app cache.\n+ Added option to see story mentions.\n+ Added Profile Analyzer.\n\n- Removed Reels Auto Scroll since Instagram is adding a native way to do this."
                 }
             ]
