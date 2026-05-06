@@ -1,0 +1,137 @@
+{
+    "name": "yodaluca23's Laboratory",
+    "subtitle": "All freed tweaks in one place",
+    "description": "Welcome to the official AltStore repository of yodaluca23's Laboratory!\n\nHere, you can explore and download all *freed* tweaked apps.",
+    "iconURL": "https://avatars.githubusercontent.com/u/67206487",
+    "headerURL": "https://files.catbox.moe/imzc7j.png",
+    "website": "https://yodaluca.dev",
+    "tintColor": "#9adaf2",
+    "featuredApps": [
+        "com.google.ios.youtube",
+        "tv.twitch"
+    ],
+    "apps": [
+        {
+            "name": "YouTube Plus (iOS16+)",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "dvntm & Zarzel",
+            "subtitle": "YouTube Plus with additional tweaks",
+            "localizedDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
+            "iconURL": "https://files.catbox.moe/gq7pwy.png",
+            "tintColor": "#E36678",
+            "screenshots": [
+                "https://files.catbox.moe/x6cg8k",
+                "https://files.catbox.moe/d32a64",
+                "https://files.catbox.moe/nwbg0c",
+                "https://files.catbox.moe/sgguq1",
+                "https://files.catbox.moe/x01139",
+                "https://files.catbox.moe/nu5q6l",
+                "https://files.catbox.moe/r6iymj",
+                "https://files.catbox.moe/nyk8o2",
+                "https://files.catbox.moe/yc1bjs"
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "application-identifier",
+                    "aps-environment",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+                    "com.apple.developer.declared-age-range",
+                    "com.apple.developer.device-information.user-assigned-device-name",
+                    "com.apple.developer.group-session",
+                    "com.apple.developer.networking.multicast",
+                    "com.apple.developer.networking.wifi-info",
+                    "com.apple.developer.siri",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.usernotifications.communication",
+                    "com.apple.developer.usernotifications.time-sensitive",
+                    "com.apple.security.application-groups",
+                    "keychain-access-groups"
+                ],
+                "privacy": {
+                    "NSCameraUsageDescription": "This lets you create videos using the app.",
+                    "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites.",
+                    "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
+                    "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
+                    "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
+                    "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
+                    "NSLocationWhenInUseUsageDescription": "This enables local content discovery, improved recommendations, and enhanced search results.",
+                    "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
+                    "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
+                }
+            },
+            "versions": [
+                {
+                    "version": "21.17.3",
+                    "minOSVersion": "16.0",
+                    "date": "2026-05-05T21:00:00+03:00",
+                    "size": 129690192,
+                    "downloadURL": "https://files.catbox.moe/5g1otx.ipa",
+                    "localizedDescription": "YouTube Plus v5.2.1\n\nFIXED:\n - Fixed settings not updating correctly\n - Fixed crashes when navigating to certain cells from search results\n - Fixed incorrect playback speed display in controls\n - Fixed visual glitch in live video ring\n\nIMPROVED:\n - Improved SponsorBlock skip logic\n - Improved swipe-to-seek with real-time timestamp display\n - Improved Control Center skip forward/backward actions\n\nADDED:\n - Added option to hide the 'More videos' button in the overlay"
+                }
+            ]
+        },
+        {
+            "name": "Tweach",
+            "bundleIdentifier": "tv.twitch",
+            "developerName": "dvntm & Zarzel",
+            "subtitle": "Download your favorite Clips, VODs and Live Streams with Tweach",
+            "localizedDescription": "Features:\n- Download VODs, Live Streams and Clips in selected quality, including audio only\n- Player customization: hide unwanted controls, live stats overlay, gestures, system player support and more\n- Profile info including HQ profile picture, banner and offline banner downloading\n- Tab bar customization: reorder and hide tabs, set startup tab\n- Import, export and reset preferences, clear cache manually or automatically on startup\n\n*Tweach preferences are available in the Twitch settings or by swiping up on the tab bar*",
+            "iconURL": "https://files.catbox.moe/c52sol",
+            "tintColor": "#864AF6",
+            "screenshots": [
+                "https://files.catbox.moe/6uwat7.jpg",
+                "https://files.catbox.moe/8928va.jpg",
+                "https://files.catbox.moe/dslaqk.jpg",
+                "https://files.catbox.moe/jc5vut.jpg",
+                "https://files.catbox.moe/cehtf3.jpg",
+                "https://files.catbox.moe/q9mxl8.jpg"
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "application-identifier",
+                    "aps-environment",
+                    "com.apple.developer.applesignin",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.declared-age-range",
+                    "com.apple.developer.group-session",
+                    "com.apple.developer.networking.wifi-info",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.team-identifier",
+                    "com.apple.developer.usernotifications.communication",
+                    "com.apple.developer.usernotifications.time-sensitive",
+                    "com.apple.security.application-groups",
+                    "keychain-access-groups"
+                ],
+                "privacy": {
+                    "NSCameraUsageDescription": "Twitch needs permission to access the camera on this device to stream live video and change your profile image.",
+                    "NSUserTrackingUsageDescription": "Your iOS advertising ID and device data will be used to support creators and provide a personal ad experience.",
+                    "NSPhotoLibraryAddUsageDescription": "Twitch needs permission to write to your photo library in order to save images.",
+                    "NSLocalNetworkUsageDescription": "Twitch uses the local network to discover Cast-enabled devices on your WiFi network.",
+                    "NSMicrophoneUsageDescription": "Twitch needs permission to access the microphone on this device to stream live video."
+                }
+            },
+            "versions": [
+                {
+                    "version": "29.2",
+                    "minOSVersion": "16.4",
+                    "date": "2026-05-05T20:00:00+03:00",
+                    "size": 156343520,
+                    "downloadURL": "https://files.catbox.moe/rfqg6k.ipa",
+                    "localizedDescription": "Tweach v2.3.3:\n- Fixed swipe-up gesture on tab bar\n- Fixed alert actions not working (Import settings, Log out, and etc.)"
+                }
+            ]
+        }
+    ],
+    "news": [
+        {
+            "title": "All tweaks on here require no subscription!",
+            "identifier": "News1",
+            "caption": "All tweaks on this repository have been completely freed and don't require any subscription.",
+            "tintColor": "#E36678",
+            "imageURL": "https://files.catbox.moe/uu2ols.jpeg",
+            "date": "2026-05-05",
+            "notify": true
+        }
+    ]
+}
