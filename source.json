@@ -130,6 +130,12 @@
             "localizedDescription": "",
             "iconURL": "https://files.catbox.moe/2tl1tg.jpg",
             "tintColor": "#fa0179",
+            "screenshots": [
+                "https://files.catbox.moe/18w4p3.tiff",
+                "https://files.catbox.moe/oyuvpr.png",
+                "https://files.catbox.moe/nqw7tl.png",
+                "https://files.catbox.moe/veui29.PNG"
+            ],
             "appPermissions": {
                 "entitlements": [
                     "application-identifier",
