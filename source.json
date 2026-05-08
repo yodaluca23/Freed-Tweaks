@@ -129,6 +129,7 @@
             "subtitle": "An awesome tweak for Instagram!",
             "localizedDescription": "",
             "iconURL": "https://files.catbox.moe/2tl1tg.jpg",
+            "category": "social",
             "tintColor": "#fa0179",
             "screenshots": [
                 "https://files.catbox.moe/18w4p3.tiff",
@@ -183,6 +184,7 @@
             "subtitle": "The Most Awesome TikTok Tweak for iOS",
             "localizedDescription": "RXTikTok 1.6.6 RELEASE:\n\nADDED:\n- [NEW] Bypass Russia Ban \ud83c\uddf7\ud83c\uddfa (without VPN)\n- Block More Types of ADs/Content\n  \u00b7 MovieTok\n  \u00b7 AI Generated Content\n  \u00b7 Appstore App Downloads\n- Save Your Drafts/Posts Without Watermarks\n- Download Live Photos as Videos\n- Download Stickers\n- Remove Sticker Recommendations\n- Confirmation for Quick Sharing\n- Confirmation for Quick Reposting\n- Hide RX Elements in Screenshots\n- Upload Custom Voice Messages\n- Remove Report Flag in DMs\n\nFIXED:\n- \u201cHide ADs\u201d\n- Story Videos Crashing\n- Photo Quality Downloads\n- Photo Comments Not Saving\n- Importing Configurations\n- Some Feature Descriptions Cut Early\n- Fake Verification Badge\n- \u201cHide Play/Pause Button\u201d Black Stories\n- Some Broken Strings\n\nCHANGED:\n- Profile Picture Saving Layout\n- Refactored Filtering Settings\n  \u00b7 New submenu in \u201cFeed Settings\u201d\n\nREMOVED:\n- Enable HD Uploads\n- Comment Location Flags\n(these 2 features were either partially or entirely broken)",
             "iconURL": "https://files.catbox.moe/6a4e2w",
+            "category": "social",
             "tintColor": "9b54fd",
             "screenshots": [
                 "https://files.catbox.moe/upo2io",
@@ -217,6 +219,55 @@
                     "size": 361489053,
                     "downloadURL": "https://github.com/yodaluca23/Freed-Tweaks/releases/download/1.0.0/RXTikTok-v1.6.6_43.9.0_patch_zarzel.ipa",
                     "localizedDescription": "+ Updated support for Instagram v420.0.0.\n+ Optimized video saving.\n+ Added device ban bypass.\n+ Updated/fixed all features regarding to marking messages as seen.\n+ Added an option to hide Blend Button in DMs\n+ Fixed Keep Deleted Messages.\n+ Added Comment Options.\n+ Added Story Seen on Like.\n+ Added Story Seen on Reply.\n+ Added button to clear app cache.\n+ Added option to see story mentions.\n+ Added Profile Analyzer.\n\n- Removed Reels Auto Scroll since Instagram is adding a native way to do this."
+                }
+            ]
+        },
+        {
+            "developerName": "Fouad Raheb & Zarzel",
+            "bundleIdentifier": "com.burbn.instagram",
+            "name": "Regram",
+            "subtitle": "The all-in-one tweak for Instagram",
+            "localizedDescription": "Regram is a powerful Instagram enhancement tool designed for jailbroken or sideloaded iOS devices, offering a vast range of customization and privacy features directly within the official Instagram app.\n\nAccess Regram settings by long-pressing on Home tab bar button or from Instagram settings.",
+            "iconURL": "https://files.catbox.moe/sh51sd",
+            "category": "social",
+            "tintColor": "#E1306C",
+            "screenshots": [
+                "https://files.catbox.moe/1hczue",
+                "https://files.catbox.moe/7ldwlq",
+                "https://files.catbox.moe/t1xbv1",
+                "https://files.catbox.moe/xi6847",
+                "https://files.catbox.moe/usfa0k",
+                "https://files.catbox.moe/ywn72k",
+                "https://files.catbox.moe/ffi03w",
+                "https://files.catbox.moe/wzy19h"
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "get-task-allow"
+                ],
+                "privacy": {
+                    "NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
+                    "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
+                    "NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service. Your contacts will be periodically synced and securely stored on Instagram\u2019s servers.",
+                    "NSLocationUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+                    "NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
+                    "NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
+                    "NSFocusStatusUsageDescription": "This allows Instagram to check to see if you\u2019ve been missing notifications from friends. You can always change this later in settings.",
+                    "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
+                    "NSUserTrackingUsageDescription": "This allows Instagram to provide you with a better ads experience.",
+                    "NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to the glasses using a Bluetooth connection.",
+                    "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
+                    "NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings."
+                }
+            },
+            "versions": [
+                {
+                    "version": "426.0.0",
+                    "date": "2026-05-08T07:40:49+00:00",
+                    "localizedDescription": "This update contains the following changes:\n\n- Fixed display of full last active date in direct message chats.\n- Fixed issue where excluded chats were not marked as seen in direct messages.",
+                    "downloadURL": "https://github.com/yodaluca23/Freed-Tweaks/releases/download/1.0.0/Instagram-426-Regram_patch_zarzel.ipa",
+                    "size": 303378155
                 }
             ]
         }
