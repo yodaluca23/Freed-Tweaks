@@ -137,7 +137,7 @@
             "localizedDescription": "RXTikTok 1.6.6 RELEASE:\n\nADDED:\n- [NEW] Bypass Russia Ban \ud83c\uddf7\ud83c\uddfa (without VPN)\n- Block More Types of ADs/Content\n  \u00b7 MovieTok\n  \u00b7 AI Generated Content\n  \u00b7 Appstore App Downloads\n- Save Your Drafts/Posts Without Watermarks\n- Download Live Photos as Videos\n- Download Stickers\n- Remove Sticker Recommendations\n- Confirmation for Quick Sharing\n- Confirmation for Quick Reposting\n- Hide RX Elements in Screenshots\n- Upload Custom Voice Messages\n- Remove Report Flag in DMs\n\nFIXED:\n- \u201cHide ADs\u201d\n- Story Videos Crashing\n- Photo Quality Downloads\n- Photo Comments Not Saving\n- Importing Configurations\n- Some Feature Descriptions Cut Early\n- Fake Verification Badge\n- \u201cHide Play/Pause Button\u201d Black Stories\n- Some Broken Strings\n\nCHANGED:\n- Profile Picture Saving Layout\n- Refactored Filtering Settings\n  \u00b7 New submenu in \u201cFeed Settings\u201d\n\nREMOVED:\n- Enable HD Uploads\n- Comment Location Flags\n(these 2 features were either partially or entirely broken)",
             "iconURL": "https://files.catbox.moe/6a4e2w",
             "category": "social",
-            "tintColor": "#fb2a53",
+            "tintColor": "#1efcf7",
             "screenshots": [
                 "https://files.catbox.moe/upo2io",
                 "https://files.catbox.moe/m6s32e",
