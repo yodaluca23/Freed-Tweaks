@@ -19,6 +19,7 @@
             "subtitle": "YouTube Plus with additional tweaks",
             "localizedDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
             "iconURL": "https://files.catbox.moe/gq7pwy.png",
+            "category": "photo-video",
             "tintColor": "#E36678",
             "screenshots": [
                 "https://files.catbox.moe/x6cg8k",
@@ -80,6 +81,7 @@
             "subtitle": "Download your favorite Clips, VODs and Live Streams with Tweach",
             "localizedDescription": "Features:\n- Download VODs, Live Streams and Clips in selected quality, including audio only\n- Player customization: hide unwanted controls, live stats overlay, gestures, system player support and more\n- Profile info including HQ profile picture, banner and offline banner downloading\n- Tab bar customization: reorder and hide tabs, set startup tab\n- Import, export and reset preferences, clear cache manually or automatically on startup\n\n*Tweach preferences are available in the Twitch settings or by swiping up on the tab bar*",
             "iconURL": "https://files.catbox.moe/c52sol",
+            "category": "entertainment",
             "tintColor": "#864AF6",
             "screenshots": [
                 "https://files.catbox.moe/6uwat7.jpg",
