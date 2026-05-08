@@ -13,6 +13,7 @@
     "apps": [
         {
             "name": "YouTube Plus (iOS16+)",
+            "id": "com.dvntm.ytlite",
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "dvntm & Zarzel",
             "subtitle": "YouTube Plus with additional tweaks",
@@ -73,6 +74,7 @@
         },
         {
             "name": "Tweach",
+            "id": "com.dvntm.tweach",
             "bundleIdentifier": "tv.twitch",
             "developerName": "dvntm & Zarzel",
             "subtitle": "Download your favorite Clips, VODs and Live Streams with Tweach",
@@ -124,6 +126,7 @@
         },
         {
             "name": "Theta",
+            "id": "dev.objcmsgsend.theta",
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "objc_msgSend & Zarzel",
             "subtitle": "An awesome tweak for Instagram!",
@@ -179,6 +182,7 @@
         {
             "beta": false,
             "name": "RXTikTok",
+            "id": "com.raulsaeed.rxtiktok",
             "bundleIdentifier": "com.zhiliaoapp.musically",
             "developerName": "raulsaeed & Zarzel",
             "subtitle": "The Most Awesome TikTok Tweak for iOS",
@@ -224,11 +228,12 @@
         },
         {
             "developerName": "Fouad Raheb & Zarzel",
+            "id": "com.fouadraheb.regram",
             "bundleIdentifier": "com.burbn.instagram",
             "name": "Regram",
             "subtitle": "The all-in-one tweak for Instagram",
             "localizedDescription": "Regram is a powerful Instagram enhancement tool designed for jailbroken or sideloaded iOS devices, offering a vast range of customization and privacy features directly within the official Instagram app.\n\nAccess Regram settings by long-pressing on Home tab bar button or from Instagram settings.",
-            "iconURL": "https://files.catbox.moe/sh51sd",
+            "iconURL": "https://files.catbox.moe/koc2xk.png",
             "category": "social",
             "tintColor": "#E1306C",
             "screenshots": [
