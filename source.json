@@ -278,6 +278,52 @@
                     "localizedDescription": "+ Updated support for Instagram v420.0.0.\n+ Optimized video saving.\n+ Added device ban bypass.\n+ Updated/fixed all features regarding to marking messages as seen.\n+ Added an option to hide Blend Button in DMs\n+ Fixed Keep Deleted Messages.\n+ Added Comment Options.\n+ Added Story Seen on Like.\n+ Added Story Seen on Reply.\n+ Added button to clear app cache.\n+ Added option to see story mentions.\n+ Added Profile Analyzer.\n\n- Removed Reels Auto Scroll since Instagram is adding a native way to do this."
                 }
             ]
+        },
+        {
+            "id": "com.fouadraheb.watusi3",
+            "developerName": "Fouad Raheb & Zarzel",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "name": "Watusi",
+            "subtitle": "The all-in-one tweak for WhatsApp",
+            "localizedDescription": "Watusi is your all-in-one tweak for WhatsApp Messenger.",
+            "iconURL": "https://files.catbox.moe/0modlf",
+            "screenshots": [
+                "https://files.catbox.moe/gxxbkx",
+                "https://files.catbox.moe/o5var9"
+            ],
+            "category": "social",
+            "tintColor": "#075e54",
+            "appPermissions": {
+                "entitlements": [],
+                "privacy": {
+                    "NSSiriUsageDescription": "This lets you use Siri to quickly send and read messages and make calls.",
+                    "NSCameraUsageDescription": "This lets you make video calls, take photos, and record videos.",
+                    "NSFaceIDUsageDescription": "Use Face ID to authenticate on WhatsApp.",
+                    "NSContactsUsageDescription": "Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
+                    "NSLocationUsageDescription": "This lets you send your current location or nearby places in chats.",
+                    "NSCalendarsUsageDescription": "This lets you create events on your calendar.",
+                    "NSRemindersUsageDescription": "This lets you set reminders to call your friends back.",
+                    "NSMicrophoneUsageDescription": "This lets you make calls, send voice messages, and record videos with sound.",
+                    "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks.",
+                    "NSPhotoLibraryUsageDescription": "This lets you send photos and videos from your library and save the ones you capture.",
+                    "NSLocationAlwaysUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
+                    "NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
+                    "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your library.",
+                    "NSLocationWhenInUseUsageDescription": "This lets you send your current location or nearby places in chats.",
+                    "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
+                    "NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place."
+                }
+            },
+            "versions": [
+                {
+                    "version": "26.16.74",
+                    "date": "2026-05-12T08:03:00+00:00",
+                    "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.16.X\n- Fixed an issue where status contact groups were not properly deselected, preventing selected contacts from being removed.",
+                    "downloadURL": "https://github.com/yodaluca23/Freed-Tweaks/releases/download/1.0.0/net_whatsapp_WhatsApp_26_16_74_watusi3_1_3_10_sl_patch_zarzel.ipa",
+                    "size": 140442203
+                }
+            ]
         }
     ],
     "news": [
