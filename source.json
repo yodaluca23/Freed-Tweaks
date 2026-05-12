@@ -320,7 +320,7 @@
                     "version": "26.16.74",
                     "date": "2026-05-12T08:03:00+00:00",
                     "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.16.X\n- Fixed an issue where status contact groups were not properly deselected, preventing selected contacts from being removed.",
-                    "downloadURL": "https://github.com/yodaluca23/Freed-Tweaks/releases/download/1.0.0/net_whatsapp_WhatsApp_26_16_74_watusi3_1_3_10_sl_patch_zarzel.ipa",
+                    "downloadURL": "https://files.catbox.moe/nfs9l3.ipa",
                     "size": 140442203
                 }
             ]
