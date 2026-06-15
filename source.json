@@ -284,6 +284,14 @@
       },
       "versions": [
         {
+          "version": "433.0.0",
+          "minOSVersion": "16.3",
+          "date": "2026-06-15T20:00:00+03:00",
+          "size": 291867097,
+          "downloadURL": "https://github.com/yodaluca23/Freed-Tweaks/releases/download/1.0.0/Theta-6.0_433_patch_zarzel.ipa",
+          "localizedDescription": "+ Not gonna lie, list is too damn big to write here. Just run Theta and you will see the difference."
+        },
+        {
           "version": "428.1.0",
           "minOSVersion": "16.3",
           "date": "2026-05-05T20:00:00+03:00",
