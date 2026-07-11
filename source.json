@@ -220,7 +220,7 @@
           "date": "2026-07-08T17:06:30+00:00",
           "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for IG 435.\n- Added Tab Bar editor — reorder Instagram's tab bar, show or hide individual tabs, and pick which tab opens on launch, all from one screen at the top of Interface settings.\n- Added a Regram settings button to Instagram's Report a Technical Problem menu (the one that appears when you shake your device).\n- Added a Silent (History Only) option to each Activity Notifications event — keep recording online, offline, typing, and seen activity to your history without getting a notification for it.\n- Added an Excluded Chats list for Activity Notifications — when an event is set to All Chats, chats you exclude are skipped entirely (no notification, nothing recorded). Exclude or re-include a chat straight from its + menu.\n- Added Export/Import for Chat Themes — share a theme (with its wallpaper) as a file and import themes others share with you.\n- Added a reset button in the Chat Themes color editor — clear any custom color back to Instagram's default from the color picker.\n- Fixed outgoing call (audio/video) message bubbles keeping Instagram's default gray instead of matching your Chat Theme's Outgoing Bubble color.\n- Fixed the Direct Messages mark-seen button missing from the chat nav bar for some accounts.\n- Fixed High quality video downloads sometimes skipping encoding, leaving a file that failed to save or wouldn't play.",
           "downloadURL": "https://github.com/yodaluca23/Freed-Tweaks/releases/download/1.0.0/Instagram-435-Regram5.1_patch_zarzel.ipa",
-          "size": 
+          "size": 316525532
         },
         {
           "version": "431.0.0",
