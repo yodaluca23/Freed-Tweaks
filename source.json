@@ -346,6 +346,13 @@
       },
       "versions": [
         {
+          "version": "26.25.77",
+          "date": "2026-07-15T08:03:00+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.25.X\n- Fixed the view-once controls (m…sage.\n- Hid the mark as seen & download status buttons on your own statuses, as WhatsApp uses a different layout for them.",
+          "downloadURL": "https://github.com/yodaluca23/Freed-Tweaks/releases/download/1.0.0/net_whatsapp_WhatsApp_26_25_77_watusi3_1_3_18_sl_patch_zarzel_fix.ipa",
+          "size": 160500144
+        },
+        {
           "version": "26.16.74",
           "date": "2026-05-12T08:03:00+00:00",
           "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.16.X\n- Fixed an issue where status contact groups were not properly deselected, preventing selected contacts from being removed.",
