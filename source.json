@@ -65,6 +65,14 @@
       },
       "versions": [
         {
+          "version": "21.16.2",
+          "minOSVersion": "16.0",
+          "date": "2026-07-17T07:00:00+03:00",
+          "size": 132793033,
+          "downloadURL": "https://github.com/yodaluca23/Freed-Tweaks/releases/download/1.0.0/ytp_5.2.2+21.16.2_patch_zarzel.ipa",
+          "localizedDescription": "- Fixed Download button not working with the new YouTube interface\n- Fixed progress bar coloring on the latest YouTube versions\n- Fixed SponsorBlock skipping issues\n- Fixed an issue where player gestures couldn't set brightness to 0\n- Fixed the option to hide the More videos button for playlists in the player overlay\n- Hidden new ads"
+        },
+        {
           "version": "21.17.3",
           "minOSVersion": "16.0",
           "date": "2026-05-05T21:00:00+03:00",
