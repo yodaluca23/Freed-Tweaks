@@ -371,7 +371,7 @@
     },
     {
       "developerName": "Rocket",
-      "bundleIdentifier": "com.burbn.instagram",
+      "bundleIdentifier": "com.burbn.instagram.rocket",
       "name": "Rocket for Instagram",
       "subtitle": "All-in-one tweak for Instagram",
       "localizedDescription": "Advanced privacy, media, and interface controls for Instagram.\n\n- Browse stories and direct messages with more control over view and read indicators\n- Switch to a compact grid layout for faster scanning and a cleaner home feed\n- Download supported photos and videos directly to your device for offline access\n- See follow-back status from profiles so account relationships are easier to understand",
